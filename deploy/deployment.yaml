@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: devops-demo
-        image: devsubham09/sorting-demo:v20250702095944
+        image: devsubham09/sorting-demo:v20250702102044
         ports:
         - containerPort: 80
